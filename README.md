@@ -25,9 +25,9 @@ I love making products, t have experience building products from zero, So I'm ve
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@abhisheknaiidu](https://twitter.com/abhisheknaiidu);
-- 📝 [Resume](https://drive.google.com/file/d/186ledj5PMY2damRWGpOrxYQZ2xSKjKD_/view)
+- 💬 Ask me about anything, I am happy to help if i can;
+- 📫Contact to me: nguyenvancong4696@gmail.com
+- 📝 [Resume](https://drive.google.com/file/d/15HQiJC-MMRHgdbeThGr36g1j5nFd8j97/view?usp=sharing)
 
 **Languages and Tools:**  
 
