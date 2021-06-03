@@ -15,7 +15,7 @@
 
 My name is Cong Nguyen.I'm working at Tokyo Japan as a full stack web developer. I have had over 3 years of experience working on software such as web application.Strong Knowledge with MySQL, NoSQL, JavaScript, TypeScript, NodeJs, ReactJs and have knowledge about webpack, AWS services, Docker...vv for development webapp
 
-I love making products, t have experience building products from zero, So I'm very confident in building products that help users have the best experience.
+I love making products, I have experience building products from zero, So I'm very confident in building products that help users have the best experience.
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
