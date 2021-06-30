@@ -22,7 +22,6 @@ I love making products, I have experience building products from zero, So I'm ve
   
 - 💬 Ask me about anything, I am happy to help if i can;
 - 📫Contact to me: nguyenvancong4696@gmail.com
-- 📝 [Resume](https://drive.google.com/file/d/15HQiJC-MMRHgdbeThGr36g1j5nFd8j97/view?usp=sharing)
 
 **Languages and Tools:**  
 
