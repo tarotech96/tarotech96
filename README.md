@@ -2,9 +2,6 @@
 <a href="https://www.facebook.com/TaroTech4696/">
   <img align="left" alt="Taro Tech | Facebook" width="22px" src="https://advanceprobasketball.com/wp-content/uploads/2016/02/facebook-icon-preview-400x400.png" />
 </a>
-<a href="https://www.linkedin.com/in/nguyen-cong-a1b61a189/">
-  <img align="left" alt="Taro Tech's LinkedIN" width="22px" src="https://img.flaticon.com/icons/png/512/174/174857.png?size=1200x630f&pad=10,10,10,10&ext=png&bg=FFFFFFFF" />
-</a>
 <a href="https://www.instagram.com/congtaro___/">
   <img align="left" alt="Taro Tech's Spotify" width="22px" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" />
 </a>
@@ -13,9 +10,11 @@
 
 <br />
 
-My name is Cong Nguyen.I'm working at Tokyo Japan as a full stack web developer. I have had over 3 years of experience working on software such as web application.Strong Knowledge with MySQL, NoSQL, JavaScript, TypeScript, NodeJs, ReactJs and have knowledge about webpack, AWS services, Docker...vv for development webapp
+I'm a Full-Stack Web Developer located in Tokyo. During to 4 years of my experience, I always have a serious passion for UI effects, animations and creating intuitive which make me create incredible ideas.
 
-I love making products, I have experience building products from zero, So I'm very confident in building products that help users have the best experience.
+I have strong knowledge about MySQL, NoSQL, JavaScript, TypeScript,NodeJs, ReactJs and AWS services, Docker, Webpack...vv for development web app.I love working at startup environment where i can be creative to build interesting products with new technologies.🥳
+
+So I'm very confident in building products that bring good experience to users. My hobby is traveling, reading book,coding and so on...😁
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
