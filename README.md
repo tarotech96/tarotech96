@@ -10,13 +10,6 @@
 
 <br />
 
-I'm a Full-Stack Web Developer located in Tokyo. During to 4 years of my experience, I always have a serious passion for UI effects, animations and creating intuitive which make me create incredible ideas.
-
-I have strong knowledge about MySQL, NoSQL, JavaScript, TypeScript,NodeJs, ReactJs and AWS services, Docker, Webpack...vv for development web app.I love working at startup environment where i can be creative to build interesting products with new technologies.🥳
-
-So I'm very confident in building products that bring good experience to users. My hobby is traveling, reading book,coding and so on...😁
-
-
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 - 💬 Ask me about anything, I am happy to help if i can;
