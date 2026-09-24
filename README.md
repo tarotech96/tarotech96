@@ -1,37 +1,96 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://www.facebook.com/TaroTech4696/">
-  <img align="left" alt="Taro Tech | Facebook" width="22px" src="https://advanceprobasketball.com/wp-content/uploads/2016/02/facebook-icon-preview-400x400.png" />
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=220&section=header&text=Taro%20Nguyen&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Tokyo,%20Japan&descAlignY=58&descAlign=50" width="100%"/>
+
+<a href="https://taronguyen.com/">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full-stack+Developer;Building+with+NestJS+%2B+React;Always+learning+something+new+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
-<a href="https://www.instagram.com/congtaro___/">
-  <img align="left" alt="Taro Tech's Spotify" width="22px" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" />
+
+</div>
+
+<br/>
+
+<table align="center">
+<tr>
+<td valign="top" width="60%">
+
+### 👋 About Me
+
+- 💼 Software Engineer, focused on **full-stack web development**
+- 🌏 Based in **Tokyo, Japan**
+- 💬 Ask me about anything — happy to help if I can
+- 🌱 Currently building **Kimuchi Nihongo** — a Japanese learning platform
+- 📫 Reach me at **nguyenvancong4696@gmail.com**
+- 🔗 Portfolio: **[taronguyen.com](https://taronguyen.com/)**
+
+</td>
+<td valign="top" width="40%">
+
+### 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=tarotech96&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+### 🛠️ Languages & Tools
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,nestjs,nodejs,mysql,firebase,java,git,docker,figma&theme=dark" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🔥 Streak Stats
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tarotech96&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 📈 Most Used Languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarotech96&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🌐 Connect with me
+
+<a href="mailto:nguyenvancong4696@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://taronguyen.com/">
+  <img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=tarotech96.tarotech96)
+</div>
 
-<br />
+<br/>
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  
-- 💬 Ask me about anything, I am happy to help if i can;
-- 📫Contact to me: nguyenvancong4696@gmail.com
+<div align="center">
 
-**Languages and Tools:**  
+![Profile Views](https://komarev.com/ghpvc/?username=tarotech96&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS)
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+</div>
 
-
-
-📈 My GitHub Stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tarotech96&show_icons=true&theme=gotham" alt="tarotech96" />
-
-
-
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0f172a&height=100&section=footer" width="100%"/>
