@@ -26,18 +26,6 @@
 </td>
 <td valign="top" width="40%">
 
-### 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=tarotech96&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%"/>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<div align="center">
-
 ### 🛠️ Languages & Tools
 
 <img src="https://skillicons.dev/icons?i=js,ts,react,nestjs,nodejs,mysql,firebase,java,git,docker,figma&theme=dark" />
@@ -51,16 +39,6 @@
 ### 🔥 Streak Stats
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tarotech96&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### 📈 Most Used Languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarotech96&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
