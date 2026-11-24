@@ -17,11 +17,11 @@
 ### 👋 About Me
 
 - 💼 Software Engineer, focused on **full-stack web development**
-- 🌏 Based in **Tokyo, Japan**
+- 🌏 Based in **Ha Noi, Viet Nam**
 - 💬 Ask me about anything — happy to help if I can
 - 🌱 Currently building **Kimuchi Nihongo** — a Japanese learning platform
 - 📫 Reach me at **nguyenvancong4696@gmail.com**
-- 🔗 Portfolio: **[taronguyen.com](https://taronguyen.com/)**
+- 🔗 Website: **[Kimuchi Nihongo](https://kimuchinihongo.com/)**
 
 </td>
 <td valign="top" width="40%">
